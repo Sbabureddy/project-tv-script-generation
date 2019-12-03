@@ -2,3 +2,5 @@ __pycache__
 .ipynb_checkpoints
 .vscode
 preprocess.p
+trained_rnn.pt
+generated_script_*.txt
